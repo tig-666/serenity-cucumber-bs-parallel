@@ -1,0 +1,5 @@
+/target/
+performance-report.csv
+/build
+/logs
+/.idea
